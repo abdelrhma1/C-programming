@@ -10,5 +10,6 @@
     7-Scanning avalue.
     8- C operators (Arithmetic-Bit wise-Assignment-Relational-logical...).
     
-/media/engabdulrahman/748871F88871B8E6/IMT/شرح الخطوات داخل برنامج السي.png
+
+
     
