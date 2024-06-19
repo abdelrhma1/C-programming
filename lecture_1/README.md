@@ -9,6 +9,6 @@
     6-Printing avariable.
     7-Scanning avalue.
     8- C operators (Arithmetic-Bit wise-Assignment-Relational-logical...).
-    ![شرح الخطوات داخل برنامج السي](https://github.com/abdelrhma1/C-programming/assets/126617860/9178a08f-3563-41ae-8927-2b03f781d079)
-
+    
+/media/engabdulrahman/748871F88871B8E6/IMT/شرح الخطوات داخل برنامج السي.png
     
