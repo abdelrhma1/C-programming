@@ -9,6 +9,8 @@
     6-Printing avariable.
     7-Scanning avalue.
     8- C operators (Arithmetic-Bit wise-Assignment-Relational-logical...).
+#### And another In this file you can see many labs and assignments.
+
     
 
 
