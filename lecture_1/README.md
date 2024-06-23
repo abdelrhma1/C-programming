@@ -1,6 +1,6 @@
-# lecture_1 
-## in this lecture me is study some important  topics in C programming.
-### this topics like:
+# Lecture_1 
+## In this lecture me is study some important  topics in C programming.
+### This topics like:
     1-Introduction to c programming.
     2-Comments in "c".
     3-String in "c".
