@@ -1,6 +1,6 @@
-# lecture_2
-## in this lecture me is study some important topics in C programming.
-### this topics like:
+# Lecture_2
+## In this lecture me is study some important topics in C programming.
+### This topics like:
     1-Relational operators in "c".
     2-logical operators in "c".
     3-coditional statement in "c".
