@@ -9,5 +9,5 @@
     6-General Rules of if statement in "c".
     7-Switch statement in "c".
     8-Switch statement Rules.
-#### And another In this file you can see many labs and assignments.
+#### And another In this folder you can see many labs and assignments.
 
